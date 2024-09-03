@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blockchain AI Smart Contract<br>👯 I’m looking to collaborate on Always open to new ideas and projects<br>🤝 I’m looking for help with Web Application.<br>🌱 I’m currently learning about Solidity, React.js, and Node.js.<br>💬 Ask me about Anything tech-related<br>⚡ Fun fact: "I believe AI isn’t just the future—it’s the now, and I’m all in"
+🔭 I’m currently working on Blockchain AI Smart Contract<br>👯 I’m looking to collaborate on Always open to new ideas and projects<br>🤝 I’m looking for help with AI Based Smart Contract.<br>🌱 I’m currently learning about Solidity, React.js, and Node.js.<br>💬 Ask me about Anything tech-related<br>⚡ Fun fact: "I believe AI isn’t just the future—it’s the now, and I’m all in"
 
 
 ## 🌐 Socials:
